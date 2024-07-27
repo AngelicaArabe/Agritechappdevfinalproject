@@ -12,8 +12,9 @@ Data Visualization: Utilizes various indicators like meters and sensors to visua
 Real-Time Monitoring: Provides up-to-date information on environmental conditions and system performance.
 3. Notifications: Notifies users about important events, such as changes in environmental conditions or required actions. Users can enable or disable notifications and customize their preferences, ensuring they receive only the most relevant updates.
 4. Settings: Users can view and update their profile information, ensuring that their contact and account details are current. Options to change the account password to maintain security.
- # Navigation
-          The app includes a consistent and easy-to-navigate interface with a side menu (navigation drawer) that provides quick access to key sections like Home, Dashboard, Notifications, and Settings. The application maintains a uniform design language across all pages, with consistent use of colors, fonts, and layout styles.
+Navigation
+      The app includes a consistent and easy-to-navigate interface with a side menu (navigation drawer) that provides quick access to key sections like Home, Dashboard, Notifications, and Settings. The application maintains a uniform design language across all pages, with consistent use of colors, fonts, and layout styles.
+
 
 #Video Presentation final output:
 - Figma UI demo: https://youtu.be/qiiq5qc_BGM
