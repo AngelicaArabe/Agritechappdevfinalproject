@@ -15,6 +15,12 @@ Real-Time Monitoring: Provides up-to-date information on environmental condition
  # Navigation
           The app includes a consistent and easy-to-navigate interface with a side menu (navigation drawer) that provides quick access to key sections like Home, Dashboard, Notifications, and Settings. The application maintains a uniform design language across all pages, with consistent use of colors, fonts, and layout styles.
 
+#Video Presentation final output:
+- Figma UI demo: https://youtu.be/qiiq5qc_BGM
+- Android UI demo: https://youtu.be/mPB4lDOzzBA
+
+
+
 
 
  # Sample UI 
