@@ -1,5 +1,20 @@
 # Agritechappdevfinalproject
 
+# AgriTech AquaSync: Smart Irrigation for Sustainable Tomato Growth
+ The "AgriTech AquaSync: Smart Irrigation for Sustainable Tomato Growth" project aims to improve irrigation methods and environmental conditions on JSAP Farm by using IoT devices for monitoring and control. The application is accessible through any mobile devices and uses technical terms such as DHT22, Flutter, and Dart. Flutter enhances content presentation, Dart adds dynamism, and DHT22 sensor measures temperature and humidity in tomato farm environments, allowing app accessibility for farmers.
+     The project aims to enhance water use in agriculture, particularly tomato crops, through smart irrigation systems, thereby reducing water waste and promoting sustainable water resource utilization by focusing on SDG 6: Clean Water and Sanitation. 
+
+ # Features
+ 1. User Roles and Authentication: Users can log in as either a farmer or a manager, providing role-specific access and functionalities. The application features a secure login system with email/code and password, along with an option to reset forgotten passwords.
+2. Dashboard
+Control Panel: Displays key metrics such as temperature readings, soil moisture levels, and other vital data points relevant to irrigation and plant health.
+Data Visualization: Utilizes various indicators like meters and sensors to visually present data, helping users quickly understand the status of their system.
+Real-Time Monitoring: Provides up-to-date information on environmental conditions and system performance.
+3. Notifications: Notifies users about important events, such as changes in environmental conditions or required actions. Users can enable or disable notifications and customize their preferences, ensuring they receive only the most relevant updates.
+4. Settings: Users can view and update their profile information, ensuring that their contact and account details are current. Options to change the account password to maintain security.
+ # Navigation
+          The app includes a consistent and easy-to-navigate interface with a side menu (navigation drawer) that provides quick access to key sections like Home, Dashboard, Notifications, and Settings. The application maintains a uniform design language across all pages, with consistent use of colors, fonts, and layout styles.
+
 
 
  # Sample UI 
